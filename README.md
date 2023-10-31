@@ -13,6 +13,7 @@ Feature:
 4. Kembalian
 
 Developed by: Ananda Rauf Maududi
+Developed date: 06 Juli 2020 
 
 Kami Mahasiswa Universitas Bina Sarana Informatika
 
