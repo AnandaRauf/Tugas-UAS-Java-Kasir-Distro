@@ -6,6 +6,12 @@ Program Kasir Distro
 
 Version: 1.0.0
 
+Feature:
+1. Pemilihan brand baju distro
+2. Uang Pembeli
+3. Total Harga
+4. Kembalian
+
 Developed by: Ananda Rauf Maududi
 
 Kami Mahasiswa Universitas Bina Sarana Informatika
